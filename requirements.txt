@@ -4,7 +4,7 @@ billiard==3.6.1.0
 celery==4.4.0
 certifi==2019.11.28
 chardet==3.0.4
-Django==2.2.8
+Django==2.2.24
 django-appconf==1.0.3
 django-celery==3.3.1
 django-celery-email==3.0.0
